@@ -1,0 +1,11 @@
+﻿  test.cpp
+  addressListMain.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): warning C4005: “OVERFLOW”: 宏重定义
+  c:\users\123\desktop\code_write\test_02\addresslistcode\addresslistcode\status.h(21): note: 参见“OVERFLOW”的前一个定义
+c:\users\123\desktop\code_write\test_02\addresslistcode\addresslistcode\addresslistmain.cpp(10): warning C4101: “ListInserttOK”: 未引用的局部变量
+c:\users\123\desktop\code_write\test_02\addresslistcode\addresslistcode\addresslistmain.cpp(8): warning C4101: “name”: 未引用的局部变量
+c:\users\123\desktop\code_write\test_02\addresslistcode\addresslistcode\addresslistmain.cpp(9): warning C4101: “telenum”: 未引用的局部变量
+c:\users\123\desktop\code_write\test_02\addresslistcode\addresslistcode\addresslistmain.cpp(7): warning C4101: “op”: 未引用的局部变量
+  正在生成代码...
+  AddressListcode.vcxproj -> C:\Users\123\Desktop\code_write\test_02\AddressListcode\Debug\AddressListcode.exe
+  AddressListcode.vcxproj -> C:\Users\123\Desktop\code_write\test_02\AddressListcode\Debug\AddressListcode.pdb (Full PDB)
